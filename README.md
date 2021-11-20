@@ -1,1 +1,2 @@
-# engindemirog-dev1
+# advancedJavaScript
+Starter kit for my JS Courses
